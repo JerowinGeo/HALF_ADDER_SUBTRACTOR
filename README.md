@@ -34,6 +34,11 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+#### Half adder
+![image](https://github.com/JerowinGeo/HALF_ADDER_SUBTRACTOR/assets/147139744/0727f5ba-9c71-4edf-abae-4d63ea603385)
+
+#### Half subtractor
+![image](https://github.com/JerowinGeo/HALF_ADDER_SUBTRACTOR/assets/147139744/e81c8814-1edf-4054-9afa-714595d73e0d)
 
 **Procedure**
 
@@ -50,12 +55,19 @@ Figure -02 HALF Subtractor
 
 **Program:**
 
-/* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-
-Developed by: RegisterNumber:*/
+Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+Developed by: Jerowin Geo J A
+RegisterNumber:212223100016
 
 **RTL Schematic**
+![image](https://github.com/JerowinGeo/HALF_ADDER_SUBTRACTOR/assets/147139744/9b4fc9e7-1ba1-48b8-bfe8-ac7641a8293b)
 
 **Output/TIMING Waveform**
+#### Half adder
+![image](https://github.com/JerowinGeo/HALF_ADDER_SUBTRACTOR/assets/147139744/a9cc3e5a-49bf-4ecb-acff-012e9780b97c)
+
+#### Half subtractor
+![image](https://github.com/JerowinGeo/HALF_ADDER_SUBTRACTOR/assets/147139744/d10a9c44-0107-41ee-b63d-3428eda79849)
 
 **Result:**
+Hence the output was verified successfully.
